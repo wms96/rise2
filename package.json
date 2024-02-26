@@ -41,7 +41,7 @@
     "build:store": "yarn src/store build",
     "build": "conc 'npm:build:*' ",
     "start:store": "yarn src/store start",
-    "start": "conc 'npm:start:*'",
+    "start": "conc 'npm:build:*' && conc 'npm:start:*'",
     "watch:store": "yarn src/store watch",
     "watch:server": "yarn src/server watch",
     "watch": "conc 'npm:watch:*'",
