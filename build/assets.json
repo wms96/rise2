@@ -4,7 +4,7 @@
       "/static/css/client.b60dec79.css"
     ],
     "js": [
-      "/static/js/client.c4fe9be5.js"
+      "/static/js/client.b0237a35.js"
     ],
     "chunks": [
       818
@@ -16,7 +16,7 @@
       "/assets/sw.js"
     ],
     "txt": [
-      "/static/js/client.c4fe9be5.js.LICENSE.txt"
+      "/static/js/client.b0237a35.js.LICENSE.txt"
     ],
     "svg": [
       "/static/media/thin_arrow_right.5d3a9de6.svg"
