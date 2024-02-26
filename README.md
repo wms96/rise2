@@ -200,4 +200,5 @@ If you can, please contribute by reporting issues, discussing ideas, or submitti
 This software is provided free of charge and without restriction under the MIT License
 #   r i s e 2  
  #   s e r v e r - b k  
+ #   r i s e - f r n t - c l n t  
  
